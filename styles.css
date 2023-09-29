@@ -10,6 +10,7 @@ table {
   position: relative;
   left: 130px;
   bottom: 50px;
+  border-bottom: 3px solid #d63231;
 }
 /* to align the heading left */
 th {
